@@ -1,0 +1,46 @@
+$prim: #001528;
+$sec: #003865;
+$gray_bg: #F4F5F8;
+$green: #058D66;
+
+
+// $menuText:#bfcbd9;
+// $menuActiveText:#409EFF;
+// $subMenuActiveText:#f4f4f5;
+$menuText:#0D0D0D;
+$menuActiveText:#F38F00;
+$subMenuActiveText:#F38F00;
+
+
+// $menuBg:#304156;
+// $menuHover:#263445;
+$menuBg:#F3F3F3;
+$menuHover:white;
+
+// $subMenuBg:#1f2d3d;
+// $subMenuHover:#001528;
+$subMenuBg:#F3F3F3;
+$subMenuHover:white;
+
+$sideBarWidth: 230px;
+
+// #nprogress {
+//   background: red;
+//   height:6px;
+// }
+
+:export {
+  // prim: $prim;
+  // sec: $sec;
+  // gray_bg: $gray_bg;
+  // green: $green;
+
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}

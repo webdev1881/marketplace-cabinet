@@ -1,0 +1,507 @@
+{
+    "blocks": [
+      {
+        "id": 1,
+        "title": "MAIN PAGE TOP BANNER",
+        "type": "top_banner",
+        "is_visible": true,
+        "ordering": 1,
+        "items": [
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 2,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          }
+        ],
+        "banner": {
+          "id": 1,
+          "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+          "url": "http://marketplace.ent.com.ua/ru",
+          "title": "",
+          "description": ""
+        }
+      },
+      {
+        "id": 3,
+        "title": "Нові надходження",
+        "type": "new_arrivals",
+        "is_visible": true,
+        "ordering": 2,
+        "items": [
+          {
+            "id": 63423,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/63423",
+            "rate": 4.8,
+            "image": "http://api.marketplace.ent.com.ua/media/products/63423/image.jpg",
+            "price": 19734,
+            "old_price": 0,
+            "name": "Кондиціонер Bosch CL3000i RAC 2,6 кВт (7733701735)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 1
+          },
+          {
+            "id": 55182,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/55182",
+            "rate": 3.5,
+            "image": "http://api.marketplace.ent.com.ua/media/products/55182/image.jpg",
+            "price": 4200,
+            "old_price": 0,
+            "name": "Електричний водонагрівач (бойлер) Ariston Andris RS 10U/3 (3100632)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 0
+          },
+          {
+            "id": 54856,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/54856",
+            "rate": 2.1,
+            "image": "http://api.marketplace.ent.com.ua/media/products/54856/image.jpg",
+            "price": 39600,
+            "old_price": 0,
+            "name": "Газовий котел Ariston Alteas X 24 CF NG (3300844)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 1
+          },
+          {
+            "id": 59532,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/59532",
+            "rate": 3.7,
+            "image": "http://api.marketplace.ent.com.ua/media/products/59532/image.jpg",
+            "price": 1192,
+            "old_price": 1200,
+            "name": "Клапан електромагнітний КЕМГ-NA ДУ20, ДУ15  ~220В",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 558
+          },
+          {
+            "id": 54769,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/54769",
+            "rate": 1.2,
+            "image": "http://api.marketplace.ent.com.ua/media/products/54769/image.jpg",
+            "price": 18999,
+            "old_price": 0,
+            "name": "Vaillant, turboTEC pro VUW 202/5-3",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 1
+          },
+          {
+            "id": 63419,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/63419",
+            "rate": 2.6,
+            "image": null,
+            "price": 15403,
+            "old_price": 0,
+            "name": "Внутрішній блок мультиспліт-системи Bosch CL5000iU CN 50E (7733701996)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 0
+          },
+          {
+            "id": 63425,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/63425",
+            "rate": 4.6,
+            "image": null,
+            "price": 46075,
+            "old_price": 0,
+            "name": "Кондиціонер Bosch CL3000i RAC 7,0 кВт (7733701738)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 0
+          },
+          {
+            "id": 63426,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/63426",
+            "rate": 4.2,
+            "image": null,
+            "price": 20852,
+            "old_price": 0,
+            "name": "Кондиціонер Bosch CL3000i RAC 3,5 кВт (7733701736)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 0
+          },
+          {
+            "id": 63406,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/63406",
+            "rate": 3.4,
+            "image": null,
+            "price": 70512,
+            "old_price": 0,
+            "name": "Зовнішній блок мультиспліт-системи Bosch CL5000M 125/5 E (7733701938)",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 0
+          },
+          {
+            "id": 59907,
+            "url": "http://api.marketplace.ent.com.ua/ua/product/59907",
+            "rate": 4,
+            "image": null,
+            "price": 6699,
+            "old_price": 0,
+            "name": "Газова поверхня Beko HIAG 64225SX",
+            "labels": [
+              {
+                "name": "New!",
+                "color": "#000000",
+                "class": "is_new"
+              }
+            ],
+            "quantity_left": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Бренди",
+        "type": "brands_6",
+        "is_visible": true,
+        "ordering": 3,
+        "items": [
+          {
+            "id": 98,
+            "image": null,
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/98",
+            "name": "3M"
+          },
+          {
+            "id": 90,
+            "image": null,
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/90",
+            "name": "Mastercard"
+          },
+          {
+            "id": 92,
+            "image": null,
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/92",
+            "name": "Uber"
+          },
+          {
+            "id": 86,
+            "image": null,
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/86",
+            "name": "Hilton"
+          },
+          {
+            "id": 87,
+            "image": null,
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/87",
+            "name": "McDonald's"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Нові категорії",
+        "type": "new_categories_6",
+        "is_visible": true,
+        "ordering": 4,
+        "items": [
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/categories/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2022-08-16_113213804.png",
+            "name": "Ноутбуки та комп’ютери",
+            "url": "http://api.marketplace.ent.com.ua/ua/category/1"
+          },
+          {
+            "id": 3,
+            "image": "http://api.marketplace.ent.com.ua/media/categories/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2022-08-16_113316622.png",
+            "name": "Монітори",
+            "url": "http://api.marketplace.ent.com.ua/ua/category/3"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Вигода для вас",
+        "type": "personal_bonus",
+        "is_visible": true,
+        "ordering": 5,
+        "items": [
+          {
+            "id": 2,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          }
+        ],
+        "banner": {
+          "id": 2,
+          "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+          "url": "http://marketplace.ent.com.ua/ru",
+          "title": "",
+          "description": ""
+        }
+      },
+      {
+        "id": 7,
+        "title": "Акційні пропозиції для вас (6 банерів)",
+        "type": "personal_promotion_6",
+        "is_visible": true,
+        "ordering": 6,
+        "items": [
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 1,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          }
+        ],
+        "banner": {
+          "id": 1,
+          "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e_RbtgZBG.jpg",
+          "url": "http://marketplace.ent.com.ua/ru",
+          "title": "",
+          "description": ""
+        }
+      },
+      {
+        "id": 8,
+        "title": "Акційні пропозиції для вас (3 банери)",
+        "type": "personal_promotion_3_big",
+        "is_visible": true,
+        "ordering": 7,
+        "items": [
+          {
+            "id": 2,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 2,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          },
+          {
+            "id": 2,
+            "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+            "url": "http://marketplace.ent.com.ua/ru",
+            "title": "",
+            "description": ""
+          }
+        ],
+        "banner": {
+          "id": 2,
+          "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+          "url": "http://marketplace.ent.com.ua/ru",
+          "title": "",
+          "description": ""
+        }
+      },
+      {
+        "id": 9,
+        "title": "Цікаве від Bose",
+        "logo": "http://api.marketplace.ent.com.ua/media/brands/a.jpg",
+        "type": "brand_interesting",
+        "is_visible": true,
+        "ordering": 8,
+        "items": []
+      },
+      {
+        "id": 12,
+        "title": "Може зацікавити",
+        "type": "can_be_interesting",
+        "is_visible": true,
+        "ordering": 11,
+        "items": [],
+        "banner": {
+          "id": 2,
+          "image": "http://api.marketplace.ent.com.ua/media/bimage/slide1.b01fe1e.jpg",
+          "url": "http://marketplace.ent.com.ua/ru",
+          "title": "",
+          "description": ""
+        }
+      },
+      {
+        "id": 13,
+        "title": "Новини",
+        "type": "news",
+        "is_visible": true,
+        "ordering": 12,
+        "items": [
+          {
+            "id": 2,
+            "title": "Quality let network audience magazine.",
+            "short_description": "Sit use later special skill some. Civil hot bad job.",
+            "long_description": "Apply behavior president yard play. Education station car then cause. Try have high air.\nArrive war forget admit church. Work determine drug though.",
+            "image": "http://api.marketplace.ent.com.ua/media/news/example.jpg",
+            "published_at": "1996-12-03T04:30:49",
+            "url": "http://api.marketplace.ent.com.ua/uahttps://google.com"
+          },
+          {
+            "id": 1,
+            "title": "Розпродаж вихідного дня",
+            "short_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, magnam! Deleniti obcaecati consequuntur at minus culpa accusamus, laudantium harum inventore, quo sequi eius facilis recusandae doloribus illo molestias eaque cumque unde alias ea cum? Explicabo, porro alias vitae laborum iste quibusdam officia debitis reiciendis nihil architecto eum veritatis amet eligendi incidunt in nemo dolore inventore ratione animi minima dignissimos ab! Consequuntur modi, laboriosam laudantium similique id exercitationem vero deleniti fugit officiis voluptates eos odio. Molestias quibusdam, nisi temporibus qui deleniti error facilis reiciendis eveniet dicta repudiandae aspernatur cupiditate dignissimos ad excepturi maiores. Iste eveniet dolore ex, delectus atque eius expedita excepturi illo obcaecati beatae explicabo dolorum. Corporis obcaecati labore, impedit in voluptatum ipsum commodi maiores numquam minima facilis velit expedita quod adipisci ullam cumque, veniam voluptatem id exercitationem incidunt. Tempora itaque eveniet perferendis necessitatibus aspernatur veritatis praesentium cumque quisquam aut quos, ipsum, temporibus animi est odit quod esse. Provident cumque nisi quisquam iste ex reiciendis autem amet. Quas esse dolores eligendi autem accusamus facilis vero mollitia eveniet at. Consectetur libero atque voluptas temporibus numquam, non porro veritatis. Sapiente omnis repellendus, laborum obcaecati architecto, quasi nihil perferendis id temporibus at dicta deleniti consequatur itaque! Qui, nostrum impedit? Iusto accusamus beatae laboriosam.",
+            "long_description": "Long description 111111",
+            "image": "http://api.marketplace.ent.com.ua/media/news/1200x500_blog-451.jpg",
+            "published_at": "2023-02-24T10:57:50",
+            "url": "http://api.marketplace.ent.com.ua/uahttps://google.com"
+          },
+          {
+            "id": 1,
+            "title": "Розпродаж вихідного дня",
+            "short_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, magnam! Deleniti obcaecati consequuntur at minus culpa accusamus, laudantium harum inventore, quo sequi eius facilis recusandae doloribus illo molestias eaque cumque unde alias ea cum? Explicabo, porro alias vitae laborum iste quibusdam officia debitis reiciendis nihil architecto eum veritatis amet eligendi incidunt in nemo dolore inventore ratione animi minima dignissimos ab! Consequuntur modi, laboriosam laudantium similique id exercitationem vero deleniti fugit officiis voluptates eos odio. Molestias quibusdam, nisi temporibus qui deleniti error facilis reiciendis eveniet dicta repudiandae aspernatur cupiditate dignissimos ad excepturi maiores. Iste eveniet dolore ex, delectus atque eius expedita excepturi illo obcaecati beatae explicabo dolorum. Corporis obcaecati labore, impedit in voluptatum ipsum commodi maiores numquam minima facilis velit expedita quod adipisci ullam cumque, veniam voluptatem id exercitationem incidunt. Tempora itaque eveniet perferendis necessitatibus aspernatur veritatis praesentium cumque quisquam aut quos, ipsum, temporibus animi est odit quod esse. Provident cumque nisi quisquam iste ex reiciendis autem amet. Quas esse dolores eligendi autem accusamus facilis vero mollitia eveniet at. Consectetur libero atque voluptas temporibus numquam, non porro veritatis. Sapiente omnis repellendus, laborum obcaecati architecto, quasi nihil perferendis id temporibus at dicta deleniti consequatur itaque! Qui, nostrum impedit? Iusto accusamus beatae laboriosam.",
+            "long_description": "Long description 111111",
+            "image": "http://api.marketplace.ent.com.ua/media/news/1200x500_blog-451.jpg",
+            "published_at": "2023-02-24T10:57:50",
+            "url": "http://api.marketplace.ent.com.ua/uahttps://google.com"
+          },
+          {
+            "id": 1,
+            "title": "Розпродаж вихідного дня",
+            "short_description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, magnam! Deleniti obcaecati consequuntur at minus culpa accusamus, laudantium harum inventore, quo sequi eius facilis recusandae doloribus illo molestias eaque cumque unde alias ea cum? Explicabo, porro alias vitae laborum iste quibusdam officia debitis reiciendis nihil architecto eum veritatis amet eligendi incidunt in nemo dolore inventore ratione animi minima dignissimos ab! Consequuntur modi, laboriosam laudantium similique id exercitationem vero deleniti fugit officiis voluptates eos odio. Molestias quibusdam, nisi temporibus qui deleniti error facilis reiciendis eveniet dicta repudiandae aspernatur cupiditate dignissimos ad excepturi maiores. Iste eveniet dolore ex, delectus atque eius expedita excepturi illo obcaecati beatae explicabo dolorum. Corporis obcaecati labore, impedit in voluptatum ipsum commodi maiores numquam minima facilis velit expedita quod adipisci ullam cumque, veniam voluptatem id exercitationem incidunt. Tempora itaque eveniet perferendis necessitatibus aspernatur veritatis praesentium cumque quisquam aut quos, ipsum, temporibus animi est odit quod esse. Provident cumque nisi quisquam iste ex reiciendis autem amet. Quas esse dolores eligendi autem accusamus facilis vero mollitia eveniet at. Consectetur libero atque voluptas temporibus numquam, non porro veritatis. Sapiente omnis repellendus, laborum obcaecati architecto, quasi nihil perferendis id temporibus at dicta deleniti consequatur itaque! Qui, nostrum impedit? Iusto accusamus beatae laboriosam.",
+            "long_description": "Long description 111111",
+            "image": "http://api.marketplace.ent.com.ua/media/news/1200x500_blog-451.jpg",
+            "published_at": "2023-02-24T10:57:50",
+            "url": "http://api.marketplace.ent.com.ua/uahttps://google.com"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Популярні бренди",
+        "type": "popular_brands",
+        "is_visible": true,
+        "ordering": 13,
+        "items": [
+          {
+            "id": 101,
+            "image": "http://api.marketplace.ent.com.ua/media/brands/a.jpg",
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/101",
+            "name": "Bose"
+          },
+          {
+            "id": 101,
+            "image": "http://api.marketplace.ent.com.ua/media/brands/a.jpg",
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/101",
+            "name": "Bose"
+          },
+          {
+            "id": 99,
+            "image": null,
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/99",
+            "name": "Nordstrom"
+          },
+          {
+            "id": 103,
+            "image": "http://api.marketplace.ent.com.ua/media/brands/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-04-27_090027455.png",
+            "url": "http://api.marketplace.ent.com.ua/ua/brand/103",
+            "name": "Samsung"
+          }
+        ]
+      }
+    ]
+  }

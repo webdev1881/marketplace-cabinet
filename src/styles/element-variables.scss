@@ -1,0 +1,13 @@
+/* theme color */
+// $--color-primary: teal;
+// $--color-primary: #304156;
+$--color-primary: #F38F00;
+
+#nprogress .peg {
+    box-shadow: #F38F00!important;
+}
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
