@@ -54,11 +54,11 @@ export const constantRoutes = [
     redirect: "/",
     children: [
       {
-        path: "/shop",
-        name: "Sale Points",
-        component: () => import("@/views/shopp/list"),
-        meta: { title: "Мої замовлення", icon: "el-icon-s-goods" },
-      },
+        path: 'orders',
+        name: 'Замовлення',
+        component: () => import('@/views/tab/index'),
+        meta: { title: 'Замовлення', icon: 'el-icon-s-opportunity', 'shop_id': 1 }
+    },
     ],
   },
 
