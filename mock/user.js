@@ -1,6 +1,6 @@
 
 const tokens = {
-  admin: {
+  'f778738c-e4f8-4870-b634-56703b4acafe': {
     token: 'admin-token'
   },
   editor: {
@@ -31,12 +31,13 @@ module.exports = [
     response: config => {
       const { username } = config.body
       const token = tokens[username]
+      console.log( token )
 
       // mock error
       if (!token) {
         return {
           code: 60204,
-          message: 'Account and password are incorrect.'
+          message: 'Email or password are incorrect.'
         }
       }
 
