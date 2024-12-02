@@ -3,7 +3,7 @@
     <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" auto-complete="on" label-position="left">
 
       <div class="title-container">
-        <h3 class="title">Войти в аккаунт</h3>
+        <h3 class="title">Увійти в акаунт</h3>
         
         <p style="display:none">admin@example.com</p>
         <p style="display:none">pQ29EQqx8gU9</p>
@@ -13,7 +13,7 @@
 
       <div class="tabs">
         <div class="tab_control">
-          <div @click="active = 'tab1'; clear_form()" :class="{active: active === 'tab1'}" class="tab tab1">По номеру телефона</div>
+          <div @click="active = 'tab1'; clear_form()" :class="{active: active === 'tab1'}" class="tab tab1">По номеру телефону</div>
           <div @click="active = 'tab2'; clear_form()" :class="{active: active === 'tab2'}" class="tab tab2">По email</div>
         </div>
       </div>
