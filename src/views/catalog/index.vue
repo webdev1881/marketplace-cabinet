@@ -86,7 +86,7 @@ export default {
 
 
     append(data) {
-      const newChild = { id: id++, label: 'testtest', children: [] };
+      const newChild = { id: id++, label: 'test_test_A1', children: [] };
       if (!data.children) {
         this.$set(data, 'children', []);
       }

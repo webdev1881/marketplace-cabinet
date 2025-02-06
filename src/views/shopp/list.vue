@@ -43,6 +43,7 @@
 </template>
 
 <script>
+import products from '@/api/my/products.json'
 import { fetchList } from '@/api/article'
 import Pagination from '@/components/Pagination'
 
@@ -76,11 +77,13 @@ export default {
   methods: {
     getList() {
       this.listLoading = true
-      fetchList(this.listQuery).then(response => {
-        this.list = response.data.items
-        this.total = response.data.total
-        this.listLoading = false
-      })
+      this.list = products.results.filter(el => this.type == el.status)
+      console.log( 'list :' +  this.list)
+      // fetchList(this.listQuery).then(response => {
+      //   this.list = response.data.items
+      //   this.total = response.data.total
+      //   this.listLoading = false
+      // })
     }
   }
 }
