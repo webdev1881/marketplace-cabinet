@@ -198,238 +198,238 @@
           <keep-alive>
             <table>
               <tr>
-                <th>Назва товару Постачальника</th>
-                <th></th>
-                <td>
+                <th class="td">Назва товару Постачальника</th>
+                <th class="td"></th>
+                <td class="td">
                   Батончик із крем-пастою з арахісу зі змаженим арахісом та
                   карамелью вкритий молочним шоколадом Снікерс м/у 3х18.25г
                 </td>
               </tr>
               <tr>
-                <th>Штрих-код товару</th>
-                <th></th>
-                <td>5900951286612</td>
+                <th class="td">Штрих-код товару</th>
+                <th class="td"></th>
+                <td class="td">5900951286612</td>
               </tr>
               <tr>
-                <th>Код УКТВЭД (укр УКТЗЕД)</th>
-                <th></th>
-                <td>1806310000</td>
+                <th class="td">Код УКТВЭД (укр УКТЗЕД)</th>
+                <th class="td"></th>
+                <td class="td">1806310000</td>
               </tr>
               <tr>
-                <th>% жирності / % алкоголя</th>
-                <th></th>
-                <td>0</td>
+                <th class="td">% жирності / % алкоголя</th>
+                <th class="td"></th>
+                <td class="td">0</td>
               </tr>
               <tr>
-                <th>Енергетична цінність</th>
-                <th>ккал/100г</th>
-                <td>489</td>
+                <th class="td">Енергетична цінність</th>
+                <th class="td">ккал/100г</th>
+                <td class="td">489</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Білки, г/100г</th>
-                <td>10.4</td>
+                <th class="td"></th>
+                <th class="td">Білки, г/100г</th>
+                <td class="td">10.4</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Жири, г/100г</th>
-                <td>30.5</td>
+                <th class="td"></th>
+                <th class="td">Жири, г/100г</th>
+                <td class="td">30.5</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Вуглеводи, г/100г</th>
-                <td>51.9</td>
+                <th class="td"></th>
+                <th class="td">Вуглеводи, г/100г</th>
+                <td class="td">51.9</td>
               </tr>
               <tr>
-                <th>Термін придатності товару</th>
-                <th>для автозамовлення(д)</th>
-                <td>279</td>
+                <th class="td">Термін придатності товару</th>
+                <th class="td">для автозамовлення(д)</th>
+                <td class="td">279</td>
               </tr>
               <tr>
-                <th></th>
-                <th>додатковий(ч)</th>
-                <td>-</td>
+                <th class="td"></th>
+                <th class="td">додатковий(ч)</th>
+                <td class="td">-</td>
               </tr>
               <tr>
-                <th>Температура режиму зберігання</th>
-                <th></th>
-                <td>ºC +5..+22</td>
+                <th class="td">Температура режиму зберігання</th>
+                <th class="td"></th>
+                <td class="td">ºC +5..+22</td>
               </tr>
               <tr>
-                <th>
+                <th class="td">
                   Температура режиму зберігання для додаткового терміну
                   придатності
                 </th>
-                <th></th>
-                <td>-</td>
+                <th class="td"></th>
+                <td class="td">-</td>
               </tr>
               <tr>
-                <th>Примітка щодо терміну придатності частини продукту</th>
-                <th></th>
-                <td>-</td>
+                <th class="td">Примітка щодо терміну придатності частини продукту</th>
+                <th class="td"></th>
+                <td class="td">-</td>
               </tr>
               <tr>
-                <th>ДСТУ</th>
-                <th></th>
-                <td>-</td>
+                <th class="td">ДСТУ</th>
+                <th class="td"></th>
+                <td class="td">-</td>
               </tr>
               <tr>
-                <th>ТУ</th>
-                <th></th>
-                <td>ТУ 9125-025-11489576</td>
+                <th class="td">ТУ</th>
+                <th class="td"></th>
+                <td class="td">ТУ 9125-025-11489576</td>
               </tr>
               <tr>
-                <th>Країна виробник</th>
-                <th></th>
-                <td>Польща</td>
+                <th class="td">Країна виробник</th>
+                <th class="td"></th>
+                <td class="td">Польща</td>
               </tr>
               <tr>
-                <th>Торгова марка</th>
-                <th></th>
-                <td>Snickers</td>
+                <th class="td">Торгова марка</th>
+                <th class="td"></th>
+                <td class="td">Snickers</td>
               </tr>
               <tr>
-                <th>Брендоутримувач</th>
-                <th></th>
-                <td>Mars Incorporated</td>
+                <th class="td">Брендоутримувач</th>
+                <th class="td"></th>
+                <td class="td">Mars Incorporated</td>
               </tr>
               <tr>
-                <th>Виробник</th>
-                <th></th>
-                <td>MARS Polska Sp. z o. o.</td>
+                <th class="td">Виробник</th>
+                <th class="td"></th>
+                <td class="td">MARS Polska Sp. z o. o.</td>
               </tr>
               <tr>
-                <th>Адреса виробничих потужностей виробника</th>
-                <th></th>
-                <td>Кожучки Парсел, 42, м. Сохачов, Польща, 96-500</td>
+                <th class="td">Адреса виробничих потужностей виробника</th>
+                <th class="td"></th>
+                <td class="td">Кожучки Парсел, 42, м. Сохачов, Польща, 96-500</td>
               </tr>
               <tr>
-                <th>Імпортер</th>
-                <th></th>
-                <td>ТОВ "Марс Україна"</td>
+                <th class="td">Імпортер</th>
+                <th class="td"></th>
+                <td class="td">ТОВ "Марс Україна"</td>
               </tr>
               <tr>
-                <th>Адреса імпортера</th>
-                <th></th>
-                <td>
+                <th class="td">Адреса імпортера</th>
+                <th class="td"></th>
+                <td class="td">
                   вул. Онікієнка Олега, 127, м. Бровары, Київська обл., Україна,
                   07400
                 </td>
               </tr>
               <tr>
-                <th>Одиниця виміру</th>
-                <th></th>
-                <td>шт</td>
+                <th class="td">Одиниця виміру</th>
+                <th class="td"></th>
+                <td class="td">шт</td>
               </tr>
               <tr>
-                <th>Вага товару на етикетці, кг/л</th>
-                <th></th>
-                <td>0.5475</td>
+                <th class="td">Вага товару на етикетці, кг/л</th>
+                <th class="td"></th>
+                <td class="td">0.5475</td>
               </tr>
               <tr>
-                <th>Вага нетто товару, кг/л</th>
-                <th></th>
-                <td>0.5475</td>
+                <th class="td">Вага нетто товару, кг/л</th>
+                <th class="td"></th>
+                <td class="td">0.5475</td>
               </tr>
               <tr>
-                <th>Вага брутто товару, кг</th>
-                <th></th>
-                <td>0.058</td>
+                <th class="td">Вага брутто товару, кг</th>
+                <th class="td"></th>
+                <td class="td">0.058</td>
               </tr>
               <tr>
-                <th>Групова вага нетто в упаковці, кг/л</th>
-                <th></th>
-                <td>17.52</td>
+                <th class="td">Групова вага нетто в упаковці, кг/л</th>
+                <th class="td"></th>
+                <td class="td">17.52</td>
               </tr>
               <tr>
-                <th>Вага тари (коробка / ящик), кг</th>
-                <th></th>
-                <td>0.204</td>
+                <th class="td">Вага тари (коробка / ящик), кг</th>
+                <th class="td"></th>
+                <td class="td">0.204</td>
               </tr>
               <tr>
-                <th>Вид упаковки од.товару</th>
-                <th></th>
-                <td>м/у</td>
+                <th class="td">Вид упаковки од.товару</th>
+                <th class="td"></th>
+                <td class="td">м/у</td>
               </tr>
               <tr>
-                <th>Ваго-габаритні характеристики товару</th>
-                <th>Висота см</th>
-                <td>3.9</td>
+                <th class="td">Ваго-габаритні характеристики товару</th>
+                <th class="td">Висота см</th>
+                <td class="td">3.9</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Глибина см</th>
-                <td>1.9</td>
+                <th class="td"></th>
+                <th class="td">Глибина см</th>
+                <td class="td">1.9</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Ширина см</th>
-                <td>16</td>
+                <th class="td"></th>
+                <th class="td">Ширина см</th>
+                <td class="td">16</td>
               </tr>
               <tr>
-                <th>Ваго-габаритні характеристики тари (коробка / ящик)</th>
-                <th>Висота см</th>
-                <td>8.4</td>
+                <th class="td">Ваго-габаритні характеристики тари (коробка / ящик)</th>
+                <th class="td">Висота см</th>
+                <td class="td">8.4</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Глибина см</th>
-                <td>28.4</td>
+                <th class="td"></th>
+                <th class="td">Глибина см</th>
+                <td class="td">28.4</td>
               </tr>
               <tr>
-                <th></th>
-                <th>Ширина см</th>
-                <td>17</td>
+                <th class="td"></th>
+                <th class="td">Ширина см</th>
+                <td class="td">17</td>
               </tr>
               <tr>
-                <th>Кількість в груповій упаковці, од</th>
-                <th>мін од постачання (кг/л/ шт)</th>
-                <td>1</td>
+                <th class="td">Кількість в груповій упаковці, од</th>
+                <th class="td">мін од постачання (кг/л/ шт)</th>
+                <td class="td">1</td>
               </tr>
               <tr>
-                <th></th>
-                <th>блок / шоубокс, од</th>
-                <td>-</td>
+                <th class="td"></th>
+                <th class="td">блок / шоубокс, од</th>
+                <td class="td">-</td>
               </tr>
               <tr>
-                <th></th>
-                <th>ШК блок / шоубокс</th>
-                <td>-</td>
+                <th class="td"></th>
+                <th class="td">ШК блок / шоубокс</th>
+                <td class="td">-</td>
               </tr>
               <tr>
-                <th></th>
-                <th>ящик / упаковка / спайка, од</th>
-                <td>32</td>
+                <th class="td"></th>
+                <th class="td">ящик / упаковка / спайка, од</th>
+                <td class="td">32</td>
               </tr>
               <tr>
-                <th></th>
-                <th>ШК ящик / упаковка / спайка</th>
-                <td>5900951286605</td>
+                <th class="td"></th>
+                <th class="td">ШК ящик / упаковка / спайка</th>
+                <td class="td">5900951286605</td>
               </tr>
               <tr>
-                <th></th>
-                <th>палета, од</th>
-                <td>10944</td>
+                <th class="td"></th>
+                <th class="td">палета, од</th>
+                <td class="td">10944</td>
               </tr>
               <tr>
-                <th></th>
-                <th>ШК палета</th>
-                <td>5900951286605</td>
+                <th class="td"></th>
+                <th class="td">ШК палета</th>
+                <td class="td">5900951286605</td>
               </tr>
               <tr>
-                <th>Кіл-сть на палеті</th>
-                <th>од</th>
-                <td>10944</td>
+                <th class="td">Кіл-сть на палеті</th>
+                <th class="td">од</th>
+                <td class="td">10944</td>
               </tr>
               <tr>
-                <th></th>
-                <th>коробок</th>
-                <td>342</td>
+                <th class="td"></th>
+                <th class="td">коробок</th>
+                <td class="td">342</td>
               </tr>
               <tr>
-                <th></th>
-                <th>шарів</th>
-                <td>19</td>
+                <th class="td"></th>
+                <th class="td">шарів</th>
+                <td class="td">19</td>
               </tr>
             </table>
 
@@ -499,9 +499,9 @@
             <table>
               <thead>
                 <tr>
-                  <th>Назва товару Постачальника</th>
-                  <th></th>
-                  <th>
+                  <th class="td">Назва товару Постачальника</th>
+                  <th class="td"></th>
+                  <th class="td">
                     Батончик із крем-пастою з арахісу зі змаженим арахісом та
                     карамелью вкритий молочним шоколадом Снікерс м/у 3х18.25г
                   </th>
@@ -509,124 +509,124 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>Одиниця виміру</td>
-                  <td></td>
-                  <td>шт</td>
+                  <td class="td">Одиниця виміру</td>
+                  <td class="td"></td>
+                  <td class="td">шт</td>
                 </tr>
                 <tr>
-                  <td>Вага товару на етикетці, кг/л</td>
-                  <td></td>
-                  <td>0.5475</td>
+                  <td class="td">Вага товару на етикетці, кг/л</td>
+                  <td class="td"></td>
+                  <td class="td">0.5475</td>
                 </tr>
                 <tr>
-                  <td>Вага нетто товару, кг/л</td>
-                  <td></td>
-                  <td>=C3*C15</td>
+                  <td class="td">Вага нетто товару, кг/л</td>
+                  <td class="td"></td>
+                  <td class="td">=C3*C15</td>
                 </tr>
                 <tr>
-                  <td>Вага брутто товару, кг</td>
-                  <td></td>
-                  <td>0.058</td>
+                  <td class="td">Вага брутто товару, кг</td>
+                  <td class="td"></td>
+                  <td class="td">0.058</td>
                 </tr>
                 <tr>
-                  <td>Групова вага нетто в упаковці, кг/л</td>
-                  <td></td>
-                  <td>=C4*C19</td>
+                  <td class="td">Групова вага нетто в упаковці, кг/л</td>
+                  <td class="td"></td>
+                  <td class="td">=C4*C19</td>
                 </tr>
                 <tr>
-                  <td>Вага тари (коробка / ящик), кг</td>
-                  <td></td>
-                  <td>0.204</td>
+                  <td class="td">Вага тари (коробка / ящик), кг</td>
+                  <td class="td"></td>
+                  <td class="td">0.204</td>
                 </tr>
                 <tr>
-                  <td>Вид упаковки од.товару</td>
-                  <td></td>
-                  <td>м/у</td>
+                  <td class="td">Вид упаковки од.товару</td>
+                  <td class="td"></td>
+                  <td class="td">м/у</td>
                 </tr>
                 <tr>
-                  <td>Ваго-габаритні характеристики товару</td>
-                  <td>Висота см</td>
-                  <td>3.9</td>
+                  <td class="td">Ваго-габаритні характеристики товару</td>
+                  <td class="td">Висота см</td>
+                  <td class="td">3.9</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Глибина см</td>
-                  <td>1.9</td>
+                  <td class="td"></td>
+                  <td class="td">Глибина см</td>
+                  <td class="td">1.9</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Ширина см</td>
-                  <td>16</td>
+                  <td class="td"></td>
+                  <td class="td">Ширина см</td>
+                  <td class="td">16</td>
                 </tr>
                 <tr>
-                  <td>Ваго-габаритні характеристики тари (коробка / ящик)</td>
-                  <td>Висота см</td>
-                  <td>8.4</td>
+                  <td class="td">Ваго-габаритні характеристики тари (коробка / ящик)</td>
+                  <td class="td">Висота см</td>
+                  <td class="td">8.4</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Глибина см</td>
-                  <td>28.4</td>
+                  <td class="td"></td>
+                  <td class="td">Глибина см</td>
+                  <td class="td">28.4</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Ширина см</td>
-                  <td>17</td>
+                  <td class="td"></td>
+                  <td class="td">Ширина см</td>
+                  <td class="td">17</td>
                 </tr>
                 <tr>
-                  <td>Кількість в груповій упаковці, од</td>
-                  <td>мін од постачання (кг/л/ шт)</td>
-                  <td>1</td>
+                  <td class="td">Кількість в груповій упаковці, од</td>
+                  <td class="td">мін од постачання (кг/л/ шт)</td>
+                  <td class="td">1</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК товару</td>
-                  <td>=#REF!</td>
+                  <td class="td"></td>
+                  <td class="td">ШК товару</td>
+                  <td class="td">=#REF!</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>блок / шоубокс, од</td>
-                  <td>-</td>
+                  <td class="td"></td>
+                  <td class="td">блок / шоубокс, од</td>
+                  <td class="td">-</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК блок / шоубокс</td>
-                  <td>-</td>
+                  <td class="td"></td>
+                  <td class="td">ШК блок / шоубокс</td>
+                  <td class="td">-</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ящик / упаковка / спайка, од</td>
-                  <td>32</td>
+                  <td class="td"></td>
+                  <td class="td">ящик / упаковка / спайка, од</td>
+                  <td class="td">32</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК ящик / упаковка / спайка</td>
-                  <td>5900951286605</td>
+                  <td class="td"></td>
+                  <td class="td">ШК ящик / упаковка / спайка</td>
+                  <td class="td">5900951286605</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>палета, од</td>
-                  <td>=C23</td>
+                  <td class="td"></td>
+                  <td class="td">палета, од</td>
+                  <td class="td">=C23</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК палета</td>
-                  <td>5900951286605</td>
+                  <td class="td"></td>
+                  <td class="td">ШК палета</td>
+                  <td class="td">5900951286605</td>
                 </tr>
                 <tr>
-                  <td>Кіл-сть на палеті</td>
-                  <td>од</td>
-                  <td>10944</td>
+                  <td class="td">Кіл-сть на палеті</td>
+                  <td class="td">од</td>
+                  <td class="td">10944</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>коробок</td>
-                  <td>342</td>
+                  <td class="td"></td>
+                  <td class="td">коробок</td>
+                  <td class="td">342</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>шарів</td>
-                  <td>19</td>
+                  <td class="td"></td>
+                  <td class="td">шарів</td>
+                  <td class="td">19</td>
                 </tr>
               </tbody>
             </table>
@@ -649,124 +649,124 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>Одиниця виміру</td>
-                  <td></td>
-                  <td>шт</td>
+                  <td class="td">Одиниця виміру</td>
+                  <td class="td"></td>
+                  <td class="td">шт</td>
                 </tr>
                 <tr>
-                  <td>Вага товару на етикетці, кг/л</td>
-                  <td></td>
-                  <td>0.5475</td>
+                  <td class="td">Вага товару на етикетці, кг/л</td>
+                  <td class="td"></td>
+                  <td class="td">0.5475</td>
                 </tr>
                 <tr>
-                  <td>Вага нетто товару, кг/л</td>
-                  <td></td>
-                  <td>=C3*C15</td>
+                  <td class="td">Вага нетто товару, кг/л</td>
+                  <td class="td"></td>
+                  <td class="td">=C3*C15</td>
                 </tr>
                 <tr>
-                  <td>Вага брутто товару, кг</td>
-                  <td></td>
-                  <td>0.058</td>
+                  <td class="td">Вага брутто товару, кг</td>
+                  <td class="td"></td>
+                  <td class="td">0.058</td>
                 </tr>
                 <tr>
-                  <td>Групова вага нетто в упаковці, кг/л</td>
-                  <td></td>
-                  <td>=C4*C19</td>
+                  <td class="td">Групова вага нетто в упаковці, кг/л</td>
+                  <td class="td"></td>
+                  <td class="td">=C4*C19</td>
                 </tr>
                 <tr>
-                  <td>Вага тари (коробка / ящик), кг</td>
-                  <td></td>
-                  <td>0.204</td>
+                  <td class="td">Вага тари (коробка / ящик), кг</td>
+                  <td class="td"></td>
+                  <td class="td">0.204</td>
                 </tr>
                 <tr>
-                  <td>Вид упаковки од.товару</td>
-                  <td></td>
-                  <td>м/у</td>
+                  <td class="td">Вид упаковки од.товару</td>
+                  <td class="td"></td>
+                  <td class="td">м/у</td>
                 </tr>
                 <tr>
-                  <td>Ваго-габаритні характеристики товару</td>
-                  <td>Висота см</td>
-                  <td>3.9</td>
+                  <td class="td">Ваго-габаритні характеристики товару</td>
+                  <td class="td">Висота см</td>
+                  <td class="td">3.9</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Глибина см</td>
-                  <td>1.9</td>
+                  <td class="td"></td>
+                  <td class="td">Глибина см</td>
+                  <td class="td">1.9</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Ширина см</td>
-                  <td>16</td>
+                  <td class="td"></td>
+                  <td class="td">Ширина см</td>
+                  <td class="td">16</td>
                 </tr>
                 <tr>
-                  <td>Ваго-габаритні характеристики тари (коробка / ящик)</td>
-                  <td>Висота см</td>
-                  <td>8.4</td>
+                  <td class="td">Ваго-габаритні характеристики тари (коробка / ящик)</td>
+                  <td class="td">Висота см</td>
+                  <td class="td">8.4</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Глибина см</td>
-                  <td>28.4</td>
+                  <td class="td"></td>
+                  <td class="td">Глибина см</td>
+                  <td class="td">28.4</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>Ширина см</td>
-                  <td>17</td>
+                  <td class="td"></td>
+                  <td class="td">Ширина см</td>
+                  <td class="td">17</td>
                 </tr>
                 <tr>
-                  <td>Кількість в груповій упаковці, од</td>
-                  <td>мін од постачання (кг/л/ шт)</td>
-                  <td>1</td>
+                  <td class="td">Кількість в груповій упаковці, од</td>
+                  <td class="td">мін од постачання (кг/л/ шт)</td>
+                  <td class="td">1</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК товару</td>
-                  <td>=#REF!</td>
+                  <td class="td"></td>
+                  <td class="td">ШК товару</td>
+                  <td class="td">=#REF!</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>блок / шоубокс, од</td>
-                  <td>-</td>
+                  <td class="td"></td>
+                  <td class="td">блок / шоубокс, од</td>
+                  <td class="td">-</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК блок / шоубокс</td>
-                  <td>-</td>
+                  <td class="td"></td>
+                  <td class="td">ШК блок / шоубокс</td>
+                  <td class="td">-</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ящик / упаковка / спайка, од</td>
-                  <td>32</td>
+                  <td class="td"></td>
+                  <td class="td">ящик / упаковка / спайка, од</td>
+                  <td class="td">32</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК ящик / упаковка / спайка</td>
-                  <td>5900951286605</td>
+                  <td class="td"></td>
+                  <td class="td">ШК ящик / упаковка / спайка</td>
+                  <td class="td">5900951286605</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>палета, од</td>
-                  <td>=C23</td>
+                  <td class="td"></td>
+                  <td class="td">палета, од</td>
+                  <td class="td">=C23</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>ШК палета</td>
-                  <td>5900951286605</td>
+                  <td class="td"></td>
+                  <td class="td">ШК палета</td>
+                  <td class="td">5900951286605</td>
                 </tr>
                 <tr>
-                  <td>Кіл-сть на палеті</td>
-                  <td>од</td>
-                  <td>10944</td>
+                  <td class="td">Кіл-сть на палеті</td>
+                  <td class="td">од</td>
+                  <td class="td">10944</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>коробок</td>
-                  <td>342</td>
+                  <td class="td"></td>
+                  <td class="td">коробок</td>
+                  <td class="td">342</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td>шарів</td>
-                  <td>19</td>
+                  <td class="td"></td>
+                  <td class="td">шарів</td>
+                  <td class="td">19</td>
                 </tr>
               </tbody>
             </table>
@@ -1381,7 +1381,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 /* .link-type {
   background-color: red;
 } */
@@ -1390,7 +1390,7 @@ export default {
 }
 </style>
 
-<style lang='scss'>
+<style lang='scss' scope>
 .custom_group {
   display: flex;
   justify-content: center;
@@ -1715,11 +1715,11 @@ export default {
 table {
   border-collapse: collapse;
   width: 100%;
-  margin: 20px 0;
+  
 }
 
-th,
-td {
+.th,
+.td {
   border: 1px solid #ccc;
   padding: 8px;
   text-align: left;
