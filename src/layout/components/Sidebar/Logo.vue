@@ -1,14 +1,18 @@
 <template>
   <div class="sidebar-logo-container" :class="{'collapse':collapse}">
+   
     <transition name="sidebarLogoFade">
+
       <router-link v-if="collapse" key="collapse" class="sidebar-logo-link" to="/">
+
         <!-- <img v-if="logo" :src="logo" class="sidebar-logo"> -->
-        <img v-if="logo" src="@/assets/svg/logo.svg" class="sidebar-logo">
+        <img v-if="logo" src="https://www.getautismactive.com/wp-content/uploads/2021/01/Test-Logo-Circle-black-transparent.png" class="sidebar-logo">
         <!-- <h1 v-else class="sidebar-title">{{ title }} </h1> -->
       </router-link>
       <router-link v-else key="expand" class="sidebar-logo-link" to="/">
+
         <!-- <img v-if="logo" :src="logo" class="sidebar-logo"> -->
-        <img v-if="logo" src="@/assets/svg/logo.svg" class="sidebar-logo">
+        <img v-if="logo" src="https://www.getautismactive.com/wp-content/uploads/2021/01/Test-Logo-Circle-black-transparent.png" class="sidebar-logo">
         <!-- <h1 class="sidebar-title">{{ title }} </h1> -->
       </router-link>
     </transition>
@@ -27,7 +31,7 @@ export default {
   data() {
     return {
       title: 'market',
-      logo: 'https://static.104.ua/build/individual/cabinet/img/logo_104ua.svg?v680'
+      logo: 'https://www.getautismactive.com/wp-content/uploads/2021/01/Test-Logo-Circle-black-transparent.png'
     }
   }
 }
@@ -64,8 +68,8 @@ export default {
     & .sidebar-logo {
       // width: 32px;
       // height: 32px;
-      width: 100px;
-      height: 100px;
+      width: 50px;
+      height: 50px;
       vertical-align: middle;
       margin-right: 12px;
     }
